@@ -1,0 +1,6 @@
+﻿  OOP, 2 Laba.cpp
+D:\C and C++ Project\OOP, 2 Laba\OOP, 2 Laba\OOP, 2 Laba.cpp(45,18): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+D:\C and C++ Project\OOP, 2 Laba\OOP, 2 Laba\OOP, 2 Laba.cpp(70,45): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\C and C++ Project\OOP, 2 Laba\OOP, 2 Laba\OOP, 2 Laba.cpp(72,13): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+D:\C and C++ Project\OOP, 2 Laba\OOP, 2 Laba\OOP, 2 Laba.cpp(89,10): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  OOP, 2 Laba.vcxproj -> D:\C and C++ Project\OOP, 2 Laba\Debug\OOP, 2 Laba.exe
