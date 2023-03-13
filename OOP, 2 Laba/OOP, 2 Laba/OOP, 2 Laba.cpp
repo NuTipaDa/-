@@ -31,6 +31,7 @@ public:
 
 	void reset();
 	void showCord();
+	void moveCoord(int dx, int dy);
 };
 
 void Point::reset() {
@@ -42,6 +43,10 @@ void Point::showCord() {
 	printf("Point coord: (%d, %d)\n", x, y);
 }
 
+void Point::moveCoord(int dx, int dy) {
+	x = x + dx;
+	y = y + dx;
+}
 
 class ColoredPoint : public Point {
 protected:
